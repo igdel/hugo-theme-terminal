@@ -63,7 +63,9 @@
 - https://ragonneau.github.io **Tom Ragonneau** (Engineer)
 - https://katiethe.dev **KatieTheDev** (Amateur porgrammer and tinkerer)
 - https://stefka.eu **Jiří Štefka** (Software Developer)
-
+- https://blog.networkchuck.com **NetworkChuck** (YouTuber & Hacker)
+- https://blog.arkb.me **AbdulRKB** (Security Researcher & Web Dev)
+- https://harshv5094.netlify.app **Harsh Vyapari** (Developer & Linux Enthusiast)
 <!--
  TEMPLATE:
 
